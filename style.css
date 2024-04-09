@@ -1,0 +1,48 @@
+td{
+    border: 2px solid #0c4b31;
+    border-collapse: collapse;
+}
+
+th{
+    border: 2px solid #0b4b31;
+    border-collapse: collapse;
+    background-color: #007f4f;
+    
+   
+}
+
+table{
+    width: 600px;
+    height: 400px;
+    border: #000000;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+}
+
+.cima{
+    color: azure;
+    
+}
+
+.a{
+    color: azure;
+    
+}
+
+.b{
+    color: azure;
+    
+}
+.c{
+    color: azure;
+    
+}
+
+*{
+    height: 50px;
+}
+
